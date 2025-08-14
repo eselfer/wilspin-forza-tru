@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-    const carImage = document.querySelector('.1car.jpg');
+    const carImage = document.querySelector('..car-image');
     const revealBtn = document.querySelector('.reveal-btn');
     
     // Анимация поворота автомобиля при наведении
